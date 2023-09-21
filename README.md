@@ -1,5 +1,5 @@
 
-<h1>How I look during Coding</h1>
+<h1>How I look during coding</h1>
 
 
 ![](https://github.com/bahag-Rothm/bahag-Rothm/blob/main/6Yq.gif)
